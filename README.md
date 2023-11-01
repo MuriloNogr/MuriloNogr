@@ -42,14 +42,6 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 <br/>
 
-  
-
-<p  align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
-
-<p  align="center">
-
-<a  href="https://stackshare.io/anhello/my-personal-stack">
-
 <img  src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat"  alt="AnhellO :: StackShare" />
 
 </a>
