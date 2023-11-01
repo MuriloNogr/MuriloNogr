@@ -12,7 +12,6 @@
  - I have recently been focused on enhancing my proficiency in Object-Oriented Programming and Web Development.
 
   </p>
-  ![Microsoft Outlook Badge](https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoftoutlook&logoColor=fff&style=flat-square)
 
 <h2  align="center">You can reach me at</h2>
 
