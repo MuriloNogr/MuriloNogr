@@ -18,7 +18,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-MuriloNogr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilonogr/)](https://www.linkedin.com/in/murilonogr/) [ ![Microsoft Outlook Badge](https://img.shields.io/badge/murilo_cnogueira@outlook.com-0078D4?logo=microsoftoutlook&logoColor=fff&style=flat-square)
 ](mailto:murilo_cnogueira@outlook.com) [![Gmail Badge](https://img.shields.io/badge/-murilonogr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murilonogr@gmail.com)](mailto:murilonogr@gmail.com) [![Instagram Badge](https://img.shields.io/badge/murilo__nogueira-E4405F?logo=instagram&logoColor=fff&style=flat-square)](https://www.instagram.com/murilo__nogueira/)
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
