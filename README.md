@@ -42,8 +42,6 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 <br/>
 
-<img  src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat"  alt="AnhellO :: StackShare" />
-
 </a>
 
 </p>
