@@ -50,4 +50,46 @@
   ![React](https://img.shields.io/badge/React-333333?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/Next.js-333333?style=flat&logo=nextdotjs)
   ![Vite](https://img.shields.io/badge/Vite-333333?logo=vite&logoColor=fff&style=flat)
-  ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-
+  ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-333333?style=flat&logo=thymeleaf&logoColor=white)
+
+- 📱 &nbsp;
+  ![Flutter](https://img.shields.io/badge/Flutter-333333?style=flat&logo=flutter)
+  ![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat&logo=firebase)
+
+- ☕ &nbsp;
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-333333?style=flat&logo=spring-boot)
+  ![Spring Security](https://img.shields.io/badge/Spring_Security-333333?style=flat&logo=spring)
+  ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-333333?style=flat&logo=spring)
+
+- 🛢 &nbsp;
+  ![Oracle](https://img.shields.io/badge/Oracle-333333?logo=oracle&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
+
+- ⚙️ &nbsp;
+  ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-333333?style=flat&logo=rabbitmq)
+  ![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker)
+  ![Fly.io](https://img.shields.io/badge/Fly.io-333333?style=flat&logo=flydotio)
+  ![Swagger](https://img.shields.io/badge/Swagger-333333?style=flat&logo=swagger)
+  ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github)
+
+- 🔧 &nbsp;
+  ![VS Code](https://img.shields.io/badge/VS_Code-333333?style=flat&logo=visual-studio-code)
+  ![Eclipse](https://img.shields.io/badge/Eclipse_IDE-333333?style=flat&logo=eclipse-ide)
+
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<h4 align="center">Visitor's Count</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{MuriloNogr}/count.svg" alt="Visitor's Count" /></p>
+
+<h4 align="center">Top Languages</h4>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloNogr&langs_count=10&theme=tokyonight&layout=compact" alt="Top Langs" /></p>
+
+<h4 align="center">Profile Stats</h4>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MuriloNogr&show_icons=true&theme=synthwave" alt="Profile Stats" /></p>
+
+---
